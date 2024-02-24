@@ -1,0 +1,26 @@
+{
+    "name": "newreverse-string",
+    "version": "3.0.0",
+    "description": "new reverse string",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/panggilrofan/string-reverse-1234.git"
+    },
+    "keywords": [
+        "string",
+        "reverse"
+    ],
+    "author": "panggilrofan",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/panggilrofan/string-reverse-1234/issues"
+    },
+    "homepage": "https://github.com/panggilrofan/string-reverse-1234#readme",
+    "dependencies": {
+        "newreverse-string": "^3.0.0"
+    }
+}
